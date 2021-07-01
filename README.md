@@ -1,1 +1,1 @@
-# CP
+# Algorithms
